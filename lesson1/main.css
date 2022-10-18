@@ -1,0 +1,49 @@
+*{
+
+    margin: 0;
+}
+
+
+
+.block{
+    width: 500px;
+height: 500px;
+display: block;
+margin: auto;
+border: solid 2px black;
+
+}
+
+
+.foot{
+    border-radius: 10px;
+    width: 250px;
+    height: 35px;
+    background-color: orange;
+    margin: auto;
+    margin-top: auto;
+    text-align: center;
+    color: aliceblue;
+
+}
+.lol{
+    text-align: center;
+}
+input{
+    width: 350px;
+    height: 30px;
+    margin-top: auto;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
